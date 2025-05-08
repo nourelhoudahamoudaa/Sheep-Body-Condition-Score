@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['Score_1', 'Score_2', 'Score_3', 'Score_4', 'Score_5']
+
+roboflow:
+  workspace: tests-krxyh
+  project: newsbcsnew
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tests-krxyh/newsbcsnew/dataset/1
