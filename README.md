@@ -13,12 +13,18 @@ Body Condition Scoring (BCS) is essential for evaluating livestock health, nutri
 For full details, see our paper: https://doi.org/10.1007/978-3-032-05060-1_4
 
 ## Reference :
-@inproceedings{hammouda2025predicting, \n
-  title={Predicting Sheep Body Condition Scores via Explainable Deep Learning Model}, \n
+@inproceedings{hammouda2025predicting, 
+
+  title={Predicting Sheep Body Condition Scores via Explainable Deep Learning Model}, 
+  
   author={Hammouda, Nourelhouda and Mahfoudh, Mariem and Grati, Rima and Boukadi, Khouloud},
+  
   booktitle={International Conference on Computer Analysis of Images and Patterns},
+  
   pages={37--48},
+  
   year={2025},
+  
   organization={Springer}
 }
 
