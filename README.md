@@ -2,8 +2,9 @@
 This dataset is designed for Sheep Body Condition Score (BCS) prediction. It contains 5,848 images extracted from videos recorded in controlled conditions at the Higher School of Agriculture in Kef, Tunisia. Images capture sheep from side and rear views, which are essential for assessing body shape and fat distribution.
 
 This dataset was designed to enable the development and evaluation of explainable deep learning models for Sheep Body Condition Score (BCS) prediction.
-It serves as the core resource for our proposed methodology. For an in-depth description of the dataset construction, annotation strategy, and experimental framework, please refer to our published paper.
+It serves as the core resource for our proposed methodology. For an in-depth description of the dataset construction, annotation strategy, and experimental framework, please refer to our published papers.
 
+# Paper (1) :
 <img width="1256" height="333" alt="image" src="https://github.com/user-attachments/assets/045e77a9-6830-43b9-95fa-df109f500dd0" />
 
 ## Abstract
@@ -28,3 +29,25 @@ For full details, see our paper: https://doi.org/10.1007/978-3-032-05060-1_4
   organization={Springer}
 }
 
+
+# Paper (2) :
+<img width="1184" height="598" alt="image" src="https://github.com/user-attachments/assets/2fafe79b-bb77-4dbb-a042-f713db1b4042" />
+
+## DOI : 
+For full details, see our paper: https://doi.org/10.5220/0013717500004000
+
+## Reference :
+@article{hammouda2025toward,
+
+  title={Toward Semantic Explainable AI in Livestock: MoonCAB Enrichment for O-XAI to Sheep BCS Prediction},
+  
+  author={Hammouda, Nourelhouda and Mahfoudh, Mariem and Boukadi, Khouloud},
+  
+  journal={Proceedings Copyright},
+  
+  volume={52},
+  
+  pages={63},
+  
+  year={2025}
+}
